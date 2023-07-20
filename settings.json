@@ -1,0 +1,22 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "zenMode.hideLineNumbers": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.tabs.enabled": false,
+    "[json]": {
+        "editor.indentSize": "tabSize",
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "workbench.colorTheme": "SynthWave '84",
+    "FSharp.dotnetRoot": "/opt/homebrew/bin/",
+    "window.zoomLevel": 1
+}
